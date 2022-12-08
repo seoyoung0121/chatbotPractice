@@ -6,6 +6,7 @@ colab으로 챗봇 실행하는 방법:
 
 
 2. 다음 경로명을 코드의 빈칸에 넣어준다.
+
   /content/drive/MyDrive/생성한 폴더이름/ChatbotData.csv
   /content/drive/MyDrive/생성한 폴더이름/bar.csv
 
